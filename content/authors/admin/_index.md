@@ -1,7 +1,7 @@
 ---
 title: ZHU Zhiyu 朱智宇
 role: Ph.D. student of computer science in CityU HK
-avatar_filename: Avatar_zhu.png
+avatar_filename: Avatar_zhu.jpg
 bio: His research interests lie in the field of computer vision.
 interests:
   - Computer_vision;
